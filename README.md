@@ -12,3 +12,5 @@
 
 
 Target results beat.
+
+Using Technologys : python, pandas, numpy, matplotlib and tensorflow.
